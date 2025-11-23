@@ -1,7 +1,13 @@
 # Hi there 👋
+私はクラウドエンジニアとして勤務しております。<br>
+現在、NotionやScrapboxから個人ナレッジを移行・統合中です。
 
+[![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
 
-📍
+- 🧑‍💻 I’m currently working on Cloud Engineering
+- 🌱 I’m currently learning AWS, IaC, and Modern DevOps practices
+- 🏆 **2025 Japan All AWS Certifications Engineer**
+<br>
 
 
 # Skills
@@ -51,7 +57,40 @@
   ![Notion Badge](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat)
   ![Microsoft Office Badge](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white&style=flat)
 
-🏆
+
+
+# 🏆 Certifications & Awards
+
+### 🏅 Special Award
+![Japan All AWS Certifications Engineers Badge](https://img.shields.io/badge/2025_Japan_All_AWS_Certifications_Engineers-GOLD?style=for-the-badge&logo=amazon-aws&logoColor=white&color=FF9900)
+
+### 🚀 AWS Professional
+![AWS SAP Badge](https://img.shields.io/badge/Solutions_Architect-Professional-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS DOP Badge](https://img.shields.io/badge/DevOps_Engineer-Professional-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+### 💎 AWS Specialty
+![AWS SCS Badge](https://img.shields.io/badge/Security-Specialty-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS ANS Badge](https://img.shields.io/badge/Advanced_Networking-Specialty-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS MLS Badge](https://img.shields.io/badge/Machine_Learning-Specialty-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS PAS Badge](https://img.shields.io/badge/SAP_on_AWS-Specialty-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+### 🔷 AWS Associate
+![AWS SAA Badge](https://img.shields.io/badge/Solutions_Architect-Associate-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS DVA Badge](https://img.shields.io/badge/Developer-Associate-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS SOA Badge](https://img.shields.io/badge/SysOps_Administrator-Associate-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS DEA Badge](https://img.shields.io/badge/Data_Engineer-Associate-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS MLA Badge](https://img.shields.io/badge/Machine_Learning_Engineer-Associate-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+### 🔰 AWS Foundational
+![AWS CLF Badge](https://img.shields.io/badge/Cloud_Practitioner-Foundational-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS AIF Badge](https://img.shields.io/badge/AI_Practitioner-Foundational-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+### 🌐 Other Certifications
+![CCNA Badge](https://img.shields.io/badge/Cisco_Certified_Network_Associate_(CCNA)-00bceb?style=flat&logo=cisco&logoColor=white)
+
+<br>
+
+
 
 #  Github Stats
 <picture>
