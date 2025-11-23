@@ -57,8 +57,8 @@
   ![Microsoft Office Badge](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white&style=flat)
 
 
-
-`#  Github Stats
+<!--
+#  Github Stats
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=hsmts2&show_icons=true&theme=dark"
@@ -70,4 +70,4 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hsmts2&show_icons=true" />
 </picture>
-`
+-->
