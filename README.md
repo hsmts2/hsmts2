@@ -80,17 +80,40 @@
 </picture>
 
 
-<!--
-**hsmts2/hsmts2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## あたしが作りましたわよ
+# SKILLS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## ☁️ Cloud & Infrastructure
+  ![AWS Badge](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white&style=flat)
+  ![Azure Badge](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
+  ![Terraform Badge](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)
+  ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
+  ![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=flat)
+  ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=flat)
+
+- ## 🐍 Languages & Scripting
+  ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+  ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)
+  ![Shell Badge](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=flat)
+  ![JSON Badge](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=flat)
+  ![YAML Badge](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white&style=flat)
+
+- ## 🗄️ Databases
+  ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+  ![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
+  ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat)
+
+- ## 🛠️ DevOps & Tools
+  ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+  ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
+  ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+
+- ## 🤝 Communication & Management
+  ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=flat)
+  ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat)
+  ![Confluence Badge](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=flat)
+  ![Redmine Badge](https://img.shields.io/badge/Redmine-B32024?logo=redmine&logoColor=white&style=flat)
+  ![Notion Badge](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat)
+  ![Microsoft Office Badge](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white&style=flat)
