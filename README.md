@@ -1,7 +1,5 @@
 # Hi there 👋
 [![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
-# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Hashimoto<sub style="font-size: 15px; font-style: italic"></b>
-
 
 # SKILLS
 
