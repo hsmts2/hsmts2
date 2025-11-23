@@ -1,11 +1,10 @@
 # Hi there 👋
-私はクラウドエンジニアとして勤務しております。<br>
-現在、NotionやScrapboxから個人ナレッジを移行・統合中です。
-
-[![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
+[![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)
 - 🧑‍💻 I’m currently working on Cloud Engineering
 - 🌱 I’m currently learning AWS, IaC, and Modern DevOps practices
 - 🏆 **2025 Japan All AWS Certifications Engineer**
+
+- 📍現在、NotionやScrapboxから個人ナレッジを移行・統合中です。
 <br>
 
 
