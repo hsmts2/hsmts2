@@ -4,6 +4,7 @@
 - 🏆 **2025 Japan All AWS Certifications Engineer**
 - 📍現在、NotionやScrapboxから個人ナレッジを移行・統合中です。
 
+<br><br>
 
 # Skills
 - ## ☁️ Cloud & Infrastructure
@@ -52,6 +53,7 @@
   ![Notion Badge](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat)
   ![Microsoft Office Badge](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white&style=flat)
 
+<br><br>
 
 <!--
 #  Github Stats
