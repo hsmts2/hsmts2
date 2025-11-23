@@ -1,8 +1,9 @@
 # Hi there 👋
 [![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
 
-# SKILLS
 
+
+# SKILLS
 - ## ☁️ Cloud & Infrastructure
   ![AWS Badge](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white&style=flat)
   ![Azure Badge](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
@@ -38,7 +39,7 @@
   ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
   ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
-- ## 💼 Business Platforms & SaaS
+- ## 💼 SaaS
   ![Salesforce Badge](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white&style=flat)
   ![ServiceNow Badge](https://img.shields.io/badge/ServiceNow-81B5A1?logo=servicenow&logoColor=white&style=flat)
   ![TeamSpirit Badge](https://img.shields.io/badge/TeamSpirit-F5A623?style=flat)
@@ -49,7 +50,8 @@
   ![Notion Badge](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat)
   ![Microsoft Office Badge](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white&style=flat)
 
-\* Skills in study and improvement.
+
+
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 <picture>
   <source
@@ -62,4 +64,5 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hsmts2&show_icons=true" />
 </picture>
+
 
