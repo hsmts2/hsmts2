@@ -50,8 +50,6 @@
   ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat)
   ![Confluence Badge](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=flat)
   ![Redmine Badge](https://img.shields.io/badge/Redmine-B32024?logo=redmine&logoColor=white&style=flat)
-  ![Notion Badge](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat)
-  ![Microsoft Office Badge](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white&style=flat)
 
 <br><br>
 
